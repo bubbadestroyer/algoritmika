@@ -1,2 +1,1 @@
-fjvrhujgrhu
-ferfrfr
+print(123)
